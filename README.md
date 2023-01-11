@@ -9,7 +9,7 @@
     bg_color=#808080/></p> --> 
     
  <a href="https://github.com/jayrajparmar009">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=500px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=400px" />
 </a>
 
  <a href="[https://github.com/jayrajparmar009](https://github.com/ryo-ma/github-profile-trophy)">
@@ -17,7 +17,7 @@
 </a>
 
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </a>   
 
 <br><br>
@@ -26,7 +26,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&" alt="jayrajparmar009" /></p> -->
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayrajvparmar/" height="30" width="40" /></a>
