@@ -2,23 +2,19 @@
 
 
 <p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajparmar009" /> </p>
-<!-- 
-<p><img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p> --> 
-    
- <a href="https://github.com/jayrajparmar009">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=400px" />
-</a>
+
+<br/>
+<p align="left">
+  <a href="https://github.com/jayrajparmar009">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+<br>
 
 <a href="[https://github.com/jayrajparmar009](https://github.com/ryo-ma/github-profile-trophy)">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" />
 </a>
-
-<br><br><br><br><br><br><br><br><br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</a>   
 
 
 
