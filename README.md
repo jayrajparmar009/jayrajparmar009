@@ -1,29 +1,37 @@
 <h1 align="center">Analytics Professional</h1>
 
-<p align="left"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajparmar009" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" alt="jayrajparmar009" /></p>
+<p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajparmar009" /> </p>
 
-<p><img align="center"
+<br>
+
+<p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" alt="jayrajparmar009" /></p>
 
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajparmar009&theme=dark&background&show_icons=true&locale=en&layout=compact" alt="jayrajparmar009" /></p> -->
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="jayrajparmar009" /></p>
 
-&nbsp;
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="jayrajparmar009" /></p>
-
+<br>
+<p align="right">&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" alt="jayrajparmar009" /></a> </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&" alt="jayrajparmar009" /></p> -->
-<br>
-<br>
-<br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" alt="jayrajparmar009" /></a> </p>
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +44,4 @@
 
 <a href="https://github.com/jayrajparmar009/Health_Data">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=Health_Data&theme=radical&show_icons=true" />
-</a>
-<a href="https://github.com/jayrajparmar009/Public_DS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=radical&show_icons=true" />
 </a>
