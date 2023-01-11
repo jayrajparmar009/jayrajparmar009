@@ -26,7 +26,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&" alt="jayrajparmar009" /></p> -->
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayrajvparmar/" height="30" width="40" /></a>
