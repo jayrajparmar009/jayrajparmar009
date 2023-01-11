@@ -7,7 +7,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" alt="jayrajparmar009" /></p>
 <br><br><br><br><br><br>
 
@@ -19,18 +18,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&" alt="jayrajparmar009" /></p> -->
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
