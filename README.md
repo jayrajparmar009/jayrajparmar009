@@ -1,7 +1,7 @@
 <h1 align="center">Analytics Professional</h1>
 
 
-<p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajparmar009" /> </p>
+<p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=ff69b4&style=flat" alt="jayrajparmar009" /> </p>
 
 <br/>
 <p align="left">
