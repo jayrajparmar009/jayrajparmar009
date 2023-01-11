@@ -60,7 +60,7 @@
 
 
 
-
+<!-- 
 <a href="https://github.com/itaditya#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
-
+ -->
 
 
 
