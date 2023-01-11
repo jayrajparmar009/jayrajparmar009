@@ -12,15 +12,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=400px" />
 </a>
 
- <a href="[https://github.com/jayrajparmar009](https://github.com/ryo-ma/github-profile-trophy)">
+<a href="[https://github.com/jayrajparmar009](https://github.com/ryo-ma/github-profile-trophy)">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" />
 </a>
 
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+<br><br><br><br><br><br><br><br><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </a>   
 
-<br><br>
 
 
 
