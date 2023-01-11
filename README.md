@@ -42,11 +42,12 @@
 <a href="https://www.hackerrank.com/jayrajsmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jayrajsmail" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Snake eating away my github contributions :man_shrugging:</h3>
 <div align="center">
   <a href="https://github.com/jayrajparmar009">
-  <img  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 
