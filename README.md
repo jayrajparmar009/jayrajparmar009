@@ -1,4 +1,13 @@
-<h1 align="center">Analytics Professional</h1>
+<!--<h1 align="center">Analytics Professional</h1>-->
+
+<div>
+  <div align=center>
+      <img height="400"  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Avatar photo of Jayraj Parmar">
+  </div>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+  </div>
+</div>
 
 
 <p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=ff69b4&style=flat" alt="jayrajparmar009" /> </p>
