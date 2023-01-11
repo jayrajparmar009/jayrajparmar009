@@ -7,13 +7,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p> --> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=400px" alt="jayrajparmar009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" alt="jayrajparmar009" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_width=400px" alt="jayrajparmar009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="jayrajparmar009" /></p>
 
 
-<p align="right">&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" alt="jayrajparmar009" /></a> </p>
+<p align="left">&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" alt="jayrajparmar009" /></a> </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&" alt="jayrajparmar009" /></p> -->
 
