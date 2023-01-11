@@ -9,7 +9,7 @@
     bg_color=#808080/></p> --> 
     
  <a href="https://github.com/jayrajparmar009">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=200px" />
 </a>
 <a href="https://github.com/jayrajparmar009">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
