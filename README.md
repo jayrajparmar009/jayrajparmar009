@@ -43,8 +43,10 @@
 </p>
 
 
-
-
-
+<div align="center">
+  <a href="https://github.com/jayrajparmar009">
+  <img  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
