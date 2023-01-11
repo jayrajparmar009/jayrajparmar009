@@ -9,11 +9,11 @@
     bg_color=#808080/></p> --> 
     
  <a href="https://github.com/jayrajparmar009">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=250px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&card_width=500px" />
 </a>
 
  <a href="[https://github.com/jayrajparmar009](https://github.com/ryo-ma/github-profile-trophy)">
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&theme=onedark&row=2&column=3" />
 </a>
 
 
