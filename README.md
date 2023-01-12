@@ -7,10 +7,10 @@
 
 <div align=center>
 <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
 
  <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
   
   
   </div>
@@ -27,7 +27,7 @@
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=flag-india&show_icons=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D&title_color=F71A87&fire=FF0000" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D&title_color=F71A87&fire=FF0000&border_color=000000" />
   </a>
 </p>
 <br>
@@ -36,7 +36,7 @@
 <p align="center"> 
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&layout=compact&theme=radical" alt="jayrajparmar009" /><
     /a> 
-  <a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&layout=compact&theme=flag-india" alt="jayrajparmar009" /><
+  <a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&layout=compact&theme=flag-india&border=000000" alt="jayrajparmar009" /><
     /a> </p>
     
     
