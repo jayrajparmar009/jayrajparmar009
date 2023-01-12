@@ -23,11 +23,11 @@
 <p align="left">
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FFFF00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FFA500" />
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=flag-india&show_icons=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D&title_color=F71A87&fire=FFFF00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D&title_color=F71A87&fire=FFA500" />
   </a>
 </p>
 <br>
