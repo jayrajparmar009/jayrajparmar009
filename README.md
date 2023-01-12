@@ -16,12 +16,12 @@
 <br/>
 <p align="left">
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en&text_color=F71A87" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&text_color=F71A87" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=vue&show_icons=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=vue&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=vue&show_icons=true&locale=en&text_color=F71A87" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=vue&date_format=M%20j%5B%2C%20Y%5D&text_color=F71A87" />
   </a>
 </p>
 <br>
