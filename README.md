@@ -10,10 +10,10 @@
 
 <div align=center>
 <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+-+Development+Junkie" alt="Typing SVG" /></a>
 
  <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hi+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Things+you+should+know+about+me+%3A;Analytics+Professional;Fitness+Enthusiast;Inquisitive+by+Nature;Big+Self+-+Development+Junkie" alt="Typing SVG" /></a>
   </div>
 
 
