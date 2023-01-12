@@ -6,12 +6,18 @@
   </div>
 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+
+ <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+  
+  
   </div>
 </div>
 
 
-<p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=ff69b4&style=flat" alt="jayrajparmar009" /> </p>
+<p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=FFA500&style=flat" alt="jayrajparmar009" /> </p>
 
 <br/>
 <p align="left">
