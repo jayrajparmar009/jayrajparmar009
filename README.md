@@ -28,7 +28,7 @@
 
 
 <!-- Github Stats & Streaks Box -->
-<details>
+<details open>
 <summary>Github Stats</summary>
 <p align="left">
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
@@ -43,7 +43,7 @@
 </details>
 
 <!-- Github Trophies -->
-<details>
+<details open>
 <summary>Github Trophies</summary>
 <p align="center"> 
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=jayrajparmar009&layout=compact&theme=radical" alt="jayrajparmar009" /></a> 
@@ -57,7 +57,7 @@
 
 
 <!-- Languages & Tools -->
-<details>
+<details open>
 <summary>Tech Stack</summary>
 <div>
   <p style="display: inline-block;" align="center">
@@ -125,7 +125,7 @@
 
 
 <!-- Repositories that you want to pin -->
-<details>
+<details open>
 <summary>Top Repositories</summary>
 <a href="https://github.com/jayrajparmar009/path_to_fitness#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=radical&show_icons=true" />
@@ -143,7 +143,7 @@
 </details>
 
 <!-- Social media links -->
-<details>
+<details open>
 <summary>Contact Details</summary>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
