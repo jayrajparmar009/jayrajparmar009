@@ -92,7 +92,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
       <img width="30px" src="https://cdn.downloads.dataiku.com/public/mediakit/logos/Dataiku_logo_COLOR.svg" />
       <img width="30px" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Datameer_Logo.svg" />
@@ -149,6 +149,7 @@
 <!-- Social media links -->
 <details open>
 <summary>Contact Details</summary>
+<!-- Lets collaborate on anything related to analytics, web development, data as a product or Business ventures -->
   <br>
 <!-- <h3 align="left">Connect with me on:</h3> -->
 <p align="left">
