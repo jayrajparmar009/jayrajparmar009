@@ -4,8 +4,9 @@
   <div align=center>
       <img height="400"  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Avatar photo of Jayraj Parmar">
   </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
+
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F71A87&background=FF8B3C00&center=true&vCenter=true&width=435&lines=Hey+there!+This+is+Jay;Welcome+to+my+profile+%3A)+;Analytics+Professional;Fitness+Enthusiast;Inquisitive+Nature;Big+Self+Development+Junkie" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -14,9 +15,13 @@
 
 <br/>
 <p align="left">
-  <a href="https://github.com/jayrajparmar009">
+  <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=vue&show_icons=true&locale=en" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=vue&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
@@ -60,15 +65,15 @@
 
 
 
-<!-- 
-<a href="https://github.com/itaditya#gh-dark-mode-only">
+
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-<a href="https://github.com/itaditya#gh-light-mode-only">
+<a href="https://github.com/jayrajparmar009#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
- -->
+
 
 
 
