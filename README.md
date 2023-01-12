@@ -26,7 +26,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000" />
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=flag-india&show_icons=true&locale=enborder_color=000000" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayrajparmar009&theme=flag-india&show_icons=true&locale=en&border_color=000000" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D&title_color=F71A87&fire=FF0000&border=000000" />
   </a>
 </p>
