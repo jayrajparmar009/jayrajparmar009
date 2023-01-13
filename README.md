@@ -1,9 +1,8 @@
-
-
 <!-- Avatar -->
 <div>
   <div align=center>
       <img height="400"  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Avatar photo of Jayraj Parmar">
+      
   </div>
 
 <!-- Prompt below Avata; About me   -->
@@ -201,6 +200,6 @@
 
 
 
-
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 
