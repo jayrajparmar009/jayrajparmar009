@@ -1,3 +1,14 @@
+
+<div>
+  <div align=center>
+      <img height="400"  src="" alt="Avatar photo of Jayraj Parmar">
+      
+  </div>
+
+<details>
+<summary align=center>Open profile</summary>
+  
+  
 <!-- Avatar -->
 <div>
   <div align=center>
@@ -197,9 +208,14 @@
 
 
 
+</details>
 
 
-
+<div>
+  <div align=center>
+      <img height="400"  src="" alt="Avatar photo of Jayraj Parmar">
+      
+  </div>
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 
