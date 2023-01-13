@@ -1,4 +1,4 @@
-
+<!-- 
 <div>
   <div align=center>
       <img height="400"  src="" alt="Avatar photo of Jayraj Parmar">
@@ -6,7 +6,7 @@
   </div>
 
 <details>
-<summary align=center>Open profile</summary>
+<summary align=center>Open profile</summary> -->
   
   
 <!-- Avatar -->
@@ -206,7 +206,7 @@
        alt="snake" /></a>
 </div>
 
-
+<!-- 
 
 </details>
 
@@ -215,7 +215,7 @@
   <div align=center>
       <img height="400"  src="" alt="Avatar photo of Jayraj Parmar">
       
-  </div>
+  </div> -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 
