@@ -77,11 +77,16 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
-      <a href="https://www.postgresql.org/"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
-      <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-2019"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-      <a href="https://www.sqlite.org/index.html"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" />
-      <a href="https://www.oracle.com/ca-en/database/"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
+<!--       <a href="https://www.mysql.com/"> -->
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
+<!--       <a href="https://www.postgresql.org/"> -->
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+<!--       <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-2019"> -->
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<!--       <a href="https://www.sqlite.org/index.html"> -->
+        <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" />
+<!--       <a href="https://www.oracle.com/ca-en/database/"> -->
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
     </kbd>
     <br>
     <br>
@@ -89,35 +94,54 @@
       <kbd>Data Science & AI Tools/ Packages</kbd>
       <br>
       <br>
-      <a href="https://www.tensorflow.org/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <a href="https://numpy.org/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <a href="https://pandas.pydata.org/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <a href="https://spark.apache.org/docs/latest/api/python/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-      <a href="https://www.dataiku.com/"><img width="30px" src="https://cdn.downloads.dataiku.com/public/mediakit/logos/Dataiku_logo_COLOR.svg" />
-      <a href="https://www.databricks.com/"><img width="30px" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" />
-      <a href="https://www.datameer.com/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Datameer_Logo.svg" />
-      <a href="https://flask.palletsprojects.com/en/2.2.x/"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" />
+<!--       <a href="https://www.tensorflow.org/"> -->
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<!--       <a href="https://numpy.org/"> -->
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<!--       <a href="https://pandas.pydata.org/"> -->
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<!--       <a href="https://spark.apache.org/docs/latest/api/python/"> -->
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<!--       <a href="https://www.dataiku.com/"> -->
+        <img width="30px" src="https://cdn.downloads.dataiku.com/public/mediakit/logos/Dataiku_logo_COLOR.svg" />
+<!--       <a href="https://www.databricks.com/"> -->
+        <img width="30px" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" />
+<!--       <a href="https://www.datameer.com/"> -->
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Datameer_Logo.svg" />
+<!--       <a href="https://flask.palletsprojects.com/en/2.2.x/"> -->
+        <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" />
     </kbd>
       <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
-      <a href="https://code.visualstudio.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <a href="https://www.sublimetext.com/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <a href="https://jupyter.org/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <a href="https://www.jetbrains.com/pycharm/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <a href="https://www.anaconda.com/"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" />
-      <a href="https://www.spyder-ide.org/"><img width="30px" src="https://www.seekpng.com/png/detail/70-701965_spyder-anaconda-logo.png" />
+<!--       <a href="https://code.visualstudio.com/"> -->
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<!--       <a href="https://www.sublimetext.com/"> -->
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+<!--       <a href="https://jupyter.org/"> -->
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<!--       <a href="https://www.jetbrains.com/pycharm/"> -->
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<!--       <a href="https://www.anaconda.com/"> -->
+        <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" />
+<!--       <a href="https://www.spyder-ide.org/"> -->
+        <img width="30px" src="https://www.seekpng.com/png/detail/70-701965_spyder-anaconda-logo.png" />
     </kbd>
     <kbd>
       <kbd>Vizualization Tools</kbd>
       <br>
       <br>
-      <a href="https://www.tableau.com/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-      <a href="https://powerbi.microsoft.com/"><img width="30px" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" />
-      <a href="https://seaborn.pydata.org/"><img width="30px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" />
-      <a href="https://plotly.com/"><img width="30px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" />
-      <a href="https://matplotlib.org/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
+<!--       <a href="https://www.tableau.com/"> -->
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<!--       <a href="https://powerbi.microsoft.com/"> -->
+        <img width="30px" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" />
+<!--       <a href="https://seaborn.pydata.org/"> -->
+        <img width="30px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" />
+<!--       <a href="https://plotly.com/"> -->
+        <img width="30px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" />
+<!--       <a href="https://matplotlib.org/"> -->
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
     </kbd>
   </p>
 </div>
