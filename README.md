@@ -37,7 +37,7 @@
 <p align="left">
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
   <img width="49.5%" src="https://github-readme-stats-tau-two-11.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=11DDD6" />
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
   <img width="49.5%" src="https://github-readme-stats-tau-two-11.vercel.app/api?username=jayrajparmar009&theme=flag-india&show_icons=true&locale=en&border_color=000000" />
