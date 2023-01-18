@@ -9,7 +9,7 @@
       
   </div>
 
-<!-- Prompt below Avata; About me   -->
+<!-- Prompt below Avatar; About me   -->
 
 <div align=center>
 <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
@@ -209,3 +209,7 @@
         
         
 <!-- Spotify Section -->
+        
+<!-- 
+ [![Spotify](https://jayrajparmar009.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/q8hnt7kfpqplfqbimmvz72n1k)</div>      -->
+        
