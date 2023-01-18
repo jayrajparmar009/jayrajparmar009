@@ -199,16 +199,13 @@
        alt="snake" /></a>
 </div>
 
-<!-- 
+<!--START_SECTION:waka-->
+        
+        
+        
 
-</details>
-
-
-<div>
-  <div align=center>
-      <img height="400"  src="" alt="Avatar photo of Jayraj Parmar">
-      
-  </div> -->
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-
-
+<!--END_SECTION:waka-->
+        
+        
+        
+<!-- Spotify Section -->
