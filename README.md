@@ -50,7 +50,7 @@
 
 <!-- Most Used Lanuages     -->
 <details open>
-<summary>Github Trophies</summary>
+<summary>Most Used Lanuages</summary>
   <br>
 <p align="left"> 
 <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
