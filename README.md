@@ -60,9 +60,12 @@
 </p>
 </details>
 
-<!-- https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false -->
-<!-- <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=q8hnt7kfpqplfqbimmvz72n1k&cover_image=true&theme=default'/> -->
-    
+<!--
+<img
+  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/> -->
+
     
 <!-- Github Trophies -->
 <details open>
