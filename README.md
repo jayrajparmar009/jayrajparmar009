@@ -31,6 +31,17 @@
 <p align="right"> &nbsp;<img src="https://komarev.com/ghpvc/?username=jayrajparmar009&&theme=dark&background&show_icons=true&label=Profile%20views&color=FFA500&style=flat" alt="jayrajparmar009" /> </p>  
 
 
+<!-- Social media links -->
+<details open>
+<summary>Contact Details</summary>
+<!-- Lets collaborate on anything related to analytics, web development, data as a product or Business ventures -->
+  <br>
+<!-- <h3 align="left">Connect with me on:</h3> -->
+<p align="center">
+<a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayrajvparmar/" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/jayrajsmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jayrajsmail" height="50" width="50" /></a>
+</p>
+</details>
 
 <!-- Github Stats & Streaks Box -->
 <details open>
@@ -48,25 +59,7 @@
 </p>
 </details>
 
-<!-- Most Used Lanuages     -->
-<details open>
-<summary>Most Used Lanuages</summary>
-  <br>
-<p align="left"> 
-<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
-<!-- <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false " /> -->
-  </a>
-</p>
-</details>
-
-<!--
-<img
-  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/> -->
-
-    
+     
 <!-- Github Trophies -->
 <details open>
 <summary>Github Trophies</summary>
@@ -78,6 +71,24 @@
 </details>    
 
 
+
+   
+
+    
+<!-- Most Used Lanuages     -->
+<details open>
+<summary>Most Used Lanuages</summary>
+  <br>
+<p align="center"> 
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
+
+  </a>
+</p>
+</details>
+
+    
+    
 
 
 
@@ -194,17 +205,6 @@
 </a>
 </details>
 
-<!-- Social media links -->
-<details open>
-<summary>Contact Details</summary>
-<!-- Lets collaborate on anything related to analytics, web development, data as a product or Business ventures -->
-  <br>
-<!-- <h3 align="left">Connect with me on:</h3> -->
-<p align="left">
-<a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayrajvparmar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jayrajsmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jayrajsmail" height="30" width="40" /></a>
-</p>
-</details>
 
 
 
@@ -220,7 +220,17 @@
        alt="snake" /></a>
 </div>
 
- 
+     
+<!-- Contribution trend    -->
+<details open>
+<summary>Contribution Trend</summary>
+  <br>
+<p align="left"> 
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
+<img  src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&area=true&title_color=F8D866&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false" />
+  </a>
+</p>
+</details>
         
         
 <!-- Spotify Section -->
