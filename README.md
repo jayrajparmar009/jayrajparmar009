@@ -1,3 +1,5 @@
+
+
 <!-- <div align="center">
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
@@ -46,6 +48,22 @@
 </p>
 </details>
 
+<!-- Most Used Lanuages     -->
+<details open>
+<summary>Github Trophies</summary>
+  <br>
+<p align="left"> 
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
+<!-- <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false " /> -->
+  </a>
+</p>
+</details>
+
+<!-- https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false -->
+<!-- <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=q8hnt7kfpqplfqbimmvz72n1k&cover_image=true&theme=default'/> -->
+    
+    
 <!-- Github Trophies -->
 <details open>
 <summary>Github Trophies</summary>
