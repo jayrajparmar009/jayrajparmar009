@@ -227,7 +227,7 @@
   <br>
 <p align="left"> 
 <a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&area=true&title_color=F8D866&bg_color=151321&color=fe428e&line=11DDD6&point=FFFF00&hide_border=false" />
-<a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&area=true&title_color=000000&bg_color=151321&color=FFA500&line=00FF00&point=FFFF00&hide_border=false&bg_color=000000" />
+<a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-activity-graph.cyclic.app/graph/?username=jayrajparmar009&area=true&title_color=000000&bg_color=151321&color=FFA500&line=509E2E&point=FFFF00&hide_border=false&bg_color=000000" />
   </a>
 </p>
 </details>
