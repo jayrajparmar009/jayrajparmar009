@@ -38,11 +38,14 @@
   <br>
 <!-- <h3 align="left">Connect with me on:</h3> -->
 <p align="center">
-<a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayrajvparmar/" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/jayrajsmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jayrajsmail" height="50" width="50" /></a>
+<a href="mailto:jayrajparmar009@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mailto:jayrajparmar009@gmail.com" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/jayrajvparmar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/jayrajvparmar/" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/jayrajsmail" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="https://www.hackerrank.com/jayrajsmail" height="50" width="50" /></a>
 </p>
 </details>
 
+    
+    
 <!-- Github Stats & Streaks Box -->
 <details open>
 <summary>Github Stats</summary>
@@ -80,18 +83,22 @@
 <summary>Most Used Lanuages</summary>
   <br>
 <p align="center"> 
-<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
-<a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajparmar009&theme=flag-india&layout=compact" />
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
+<a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=flag-india&layout=compact" />
 
   </a>
 </p>
 </details>
 
+<!-- Wakatime Stats     -->
+
+<img
+  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/images/stat.svg"
+  alt="Jayraj's WakaTime Activity"
+/>
     
     
-
-
-
+    
 
 <!-- Languages & Tools -->
 <details open>
