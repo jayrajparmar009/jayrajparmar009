@@ -92,11 +92,11 @@
 
 <!-- Wakatime Stats     -->
 
-<img
+<!-- <img
   src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/images/stat.svg"
   alt="Jayraj's WakaTime Activity"
 />
-    
+     -->
     
     
 
