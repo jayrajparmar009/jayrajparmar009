@@ -83,7 +83,7 @@
 <summary>Most Used Lanuages</summary>
   <br>
 <p align="center"> 
-<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact?local=en"/>
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact"/>
 <a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=flag-india&layout=compact" />
 
   </a>
