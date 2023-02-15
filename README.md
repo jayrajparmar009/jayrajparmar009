@@ -52,7 +52,7 @@
   <br>
 <p align="left">
   <a href="https://github.com/jayrajparmar009#gh-dark-mode-only">
-  <img width="49.5%" src="https://github-readme-stats-tau-two-11.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true&locale=en" />
+  <img width="49.5%" src="https://github-readme-stats-tau-two-11.vercel.app/api?username=jayrajparmar009&theme=radical&show_icons=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajparmar009&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=11DDD6" />
   </a>
   <a href="https://github.com/jayrajparmar009#gh-light-mode-only">
@@ -83,7 +83,7 @@
 <summary>Most Used Lanuages</summary>
   <br>
 <p align="center"> 
-<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact" />
+<a href="https://github.com/jayrajparmar009#gh-dark-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=radical&layout=compact?local=en"/>
 <a href="https://github.com/jayrajparmar009#gh-light-mode-only"><img  src="https://github-readme-stats-jayrajparmar009.vercel.app/api/top-langs/?username=jayrajparmar009&theme=flag-india&layout=compact" />
 
   </a>
@@ -198,14 +198,14 @@
 <summary>Top Repositories</summary>
   <br>
 <a href="https://github.com/jayrajparmar009/path_to_fitness#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=radical&show_icons=false" />
 </a>
 <a href="https://github.com/jayrajparmar009/path_to_fitness#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=path_to_fitness&theme=flag-india&show_icons=true&border_color=000000" />
 </a>  
 
 <a href="https://github.com/jayrajparmar009/Public_DS#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=radical" />
+  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=radical?" />
 </a>
 <a href="https://github.com/jayrajparmar009/Public_DS#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=flag-india&border_color=000000" />
