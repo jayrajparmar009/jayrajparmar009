@@ -205,7 +205,7 @@
 </a>  
 
 <a href="https://github.com/jayrajparmar009/Public_DS#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=radical?" />
+  <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=radical" />
 </a>
 <a href="https://github.com/jayrajparmar009/Public_DS#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats-tau-two-11.vercel.app/api/pin/?username=jayrajparmar009&repo=Public_DS&theme=flag-india&border_color=000000" />
