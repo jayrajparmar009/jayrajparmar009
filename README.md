@@ -4,7 +4,20 @@
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
 
+<!-- Hero Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=180&section=header&text=Hi%20there!%20I%20am%20Jayraj%20Parmar&fontSize=40&fontAlignY=35&fontColor=ffffff" width="100%" />
+</div>
+
+
 <!-- Avatar -->
+<p align="center">
+  <a href="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/super_saiyan.png" target="_blank">
+    <img src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" width="200" alt="Click me to transform!"/>
+  </a>
+</p>
+
+
 <div>
   <div align=center>
       <img height="400"  src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Avatar photo of Jayraj Parmar">
