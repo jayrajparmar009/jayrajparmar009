@@ -1,9 +1,7 @@
-# <div align="center">🌟 JAYRAJ PARMAR 🌟</div>
-
 <div align="center">
   
   <!-- Ultra-Modern Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DATA%20ALCHEMIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Transforming%20Raw%20Data%20into%20Golden%20Insights%20✨&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DATA%20ALCHEMIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Transforming%20Raw%20Data%20into%20Golden%20Insights%20✨&descAlignY=55&descSize=20" width="100%" />
   
 </div>
 
