@@ -1,10 +1,8 @@
 <div align="center">
 
 <!-- Elegant Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=header&text=Jayraj%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Director+of+Strategic+Risk+Insights+|+Driving+AI,+Data+Science+&+Risk+Strategy+to+Modernize+Enterprise+Decision-Making&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=header&text=Jayraj%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Director+of+Strategic+Risk+Insights+|+Driving+AI,+Data+Science+and+Risk+Strategy+to+Modernize+Enterprise+Decision-Making&descAlignY=55&descSize=14" width="100%" />
 
-
-</div>
 
 <!-- Floating Avatar Section -->
 <div align="center">
