@@ -349,9 +349,9 @@ Translating data insights into measurable business outcomes
 | 🧠 **Continuous Learning** | ████████████ 100% | Always hungry for the next breakthrough |
 
 ### 🎨 **Fun Data Facts About Me:**
-- 📚 Read **50+ books** annually (mostly on AI, business, and personal development)
+<!--- 📚 Read **50+ books** annually (mostly on AI, business, and personal development)-->
 - 🏋️‍♂️ **Daily workout** routine - because strong body = strong algorithms
-- ☕ **Coffee consumption**: ~3 cups/day (optimal for debugging)
+- ☕ **Coffee consumption**: ~2 cups/day (optimal for debugging)
 - 🌟 **Side projects**: Currently building an AI-powered fitness tracker
 - 🎵 **Coding soundtrack**: Lo-fi beats and epic movie soundtracks
 
