@@ -1,8 +1,9 @@
 <div align="center">
-  
-  <!-- Ultra-Modern Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DATA%20ALCHEMIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Transforming%20Raw%20Data%20into%20Golden%20Insights%20✨&descAlignY=55&descSize=20" width="100%" />
-  
+
+<!-- Elegant Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=header&text=Jayraj%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Director%20of%20Analytics%20|%20Data%20Science%20Leader&descAlignY=55&descSize=18" width="100%" />
+
+
 </div>
 
 <!-- Floating Avatar Section -->
@@ -12,14 +13,18 @@
   <!-- Avatar with Multiple Glowing Effects -->
   <img height="400" src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Jayraj Parmar">
   
-  <br/><br/>
   
   <!-- Ultra-Dynamic Multi-line Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=F71A87&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%94%A5+SENIOR+ANALYTICS+PROFESSIONAL;%F0%9F%A4%96+AI+%26+MACHINE+LEARNING+ENGINEER;%F0%9F%93%8A+DATA+VISUALIZATION+SPECIALIST;%F0%9F%9A%80+INNOVATION+CATALYST;%F0%9F%92%AA+FITNESS+%26+WELLNESS+ADVOCATE;%F0%9F%A7%A0+CONTINUOUS+LEARNING+ENTHUSIAST;%E2%9A%A1+TURNING+DATA+INTO+MAGIC!" alt="Dynamic Typing" />
+ <!--  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=F71A87&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%94%A5+SENIOR+ANALYTICS+PROFESSIONAL;%F0%9F%A4%96+AI+%26+MACHINE+LEARNING+ENGINEER;%F0%9F%93%8A+DATA+VISUALIZATION+SPECIALIST;%F0%9F%9A%80+INNOVATION+CATALYST;%F0%9F%92%AA+FITNESS+%26+WELLNESS+ADVOCATE;%F0%9F%A7%A0+CONTINUOUS+LEARNING+ENTHUSIAST;%E2%9A%A1+TURNING+DATA+INTO+MAGIC!" alt="Dynamic Typing" />
+-->
+<!-- Elegant Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=30&duration=3000&pause=1000&color=F71A87&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Strategic+Analytics+Leader;Building+Data-Driven+Organizations;Transforming+Insights+into+Impact;Fitness+Wellness+Enthusiast" alt="Professional Title" />
+
+
   
   <!-- Animated Stats Badge -->
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=jayrajparmar009&style=for-the-badge&color=blueviolet&label=DIGITAL+EXPLORERS&labelColor=F71A87" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jayrajparmar009&style=for-the-badge&color=F71A87&label=DIGITAL+EXPLORERS&labelColor=F71A87" alt="Profile Views" />
   
 </div>
 
@@ -71,7 +76,24 @@ console.log("🌟 Ready to transform your data challenges into success stories!"
 ## 🌐 CONNECT & COLLABORATE
 
 ### 🚀 **Let's Build Something Amazing Together**
+<!-- Social Links -->
+<p>
+<a href="https://linkedin.com/in/jayrajvparmar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jayrajparmar009@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.hackerrank.com/jayrajsmail">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+</p>
 
+
+
+
+
+<!--
 <a href="mailto:jayrajparmar009@gmail.com">
   <img src="https://img.shields.io/badge/📧_EMAIL_ME-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" height="50"/>
 </a>
@@ -80,7 +102,7 @@ console.log("🌟 Ready to transform your data challenges into success stories!"
 </a>
 <a href="https://www.hackerrank.com/jayrajsmail">
   <img src="https://img.shields.io/badge/🏆_HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a1a" alt="HackerRank" height="50"/>
-</a>
+</a>-->
 
 ### 💎 **Open for:**
 `Data Science Consulting` • `ML Strategy Sessions` • `Analytics Partnerships` • `Speaking Engagements`
@@ -327,7 +349,7 @@ console.log("🌟 Ready to transform your data challenges into success stories!"
 <!-- Epic Footer -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20interesting%20⭐&descAlignY=80&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20interesting%20⭐&descAlignY=80&descSize=16" width="100%" />
   
   ### 🌟 **"In data we trust, in insights we excel, in impact we measure success"** 🌟
   
