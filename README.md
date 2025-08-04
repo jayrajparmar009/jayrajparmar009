@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Elegant Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=header&text=Jayraj%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Director%20of%20Analytics%20|%20Data%20Science%20Leader&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F71A87&height=200&section=header&text=Jayraj%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Director+of+Strategic+Risk+Insights+|+Driving+AI,+Data+Science+&+Risk+Strategy+to+Modernize+Enterprise+Decision-Making&descAlignY=55&descSize=18" width="100%" />
 
 
 </div>
@@ -110,6 +110,45 @@ console.log("🌟 Ready to transform your data challenges into success stories!"
 </div>
 
 ---
+<div align="center">
+
+## 💼 Strategic Focus Areas
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Analytics-Strategy-blue?style=for-the-badge&logo=chart-line&logoColor=white&labelColor=0366d6&color=4fc3f7"/>
+<br/><br/>
+<strong>Enterprise Transformation</strong><br/>
+Modernizing analytics infrastructure and building data-driven cultures
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI%2FML-Leadership-green?style=for-the-badge&logo=robot&logoColor=white&labelColor=28a745&color=66bb6a"/>
+<br/><br/>
+<strong>Machine Learning Operations</strong><br/>
+Scaling ML from experimentation to production deployment
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Team-Building-purple?style=for-the-badge&logo=users&logoColor=white&labelColor=6f42c1&color=ba68c8"/>
+<br/><br/>
+<strong>Talent Development</strong><br/>
+Growing high-performing analytics teams and fostering innovation
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Business-Impact-orange?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=fd7e14&color=ffb74d"/>
+<br/><br/>
+<strong>Strategic Execution</strong><br/>
+Translating data insights into measurable business outcomes
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 
 <!-- Enhanced GitHub Stats -->
 <div align="center">
