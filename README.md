@@ -219,6 +219,12 @@ Translating data insights into measurable business outcomes
 <img src="https://img.shields.io/badge/🎨_Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/📉_Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 
+### 🤖 **AI-Powered IDEs**
+<img src="https://img.shields.io/badge/🎯_Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠_GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_Tabnine-6C63FF?style=for-the-badge&logo=tabnine&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖_Codeium-09B6A2?style=for-the-badge&logoColor=white" />
+
 ### 🛠️ **Development Environment**
 <img src="https://img.shields.io/badge/🆚_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/🐍_PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
