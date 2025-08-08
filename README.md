@@ -12,9 +12,7 @@
   <img height="400" src="https://github.com/jayrajparmar009/jayrajparmar009/blob/main/Avatar.png" alt="Jayraj Parmar">
   
   
-  <!-- Ultra-Dynamic Multi-line Typing Effect -->
- <!--  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=F71A87&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%94%A5+SENIOR+ANALYTICS+PROFESSIONAL;%F0%9F%A4%96+AI+%26+MACHINE+LEARNING+ENGINEER;%F0%9F%93%8A+DATA+VISUALIZATION+SPECIALIST;%F0%9F%9A%80+INNOVATION+CATALYST;%F0%9F%92%AA+FITNESS+%26+WELLNESS+ADVOCATE;%F0%9F%A7%A0+CONTINUOUS+LEARNING+ENTHUSIAST;%E2%9A%A1+TURNING+DATA+INTO+MAGIC!" alt="Dynamic Typing" />
--->
+
 <!-- Elegant Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=30&duration=3000&pause=1000&color=F71A87&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Strategic+Analytics+Leader;Building+Data-Driven+Organizations;Transforming+Insights+into+Impact;Fitness+Wellness+Enthusiast" alt="Professional Title" />
 
